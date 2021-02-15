@@ -1,0 +1,25 @@
+{
+  "name": "@gdexporter/plugin-esbuild",
+  "version": "1.0.0",
+  "description": "Build the game with esbuild.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthuro555/gdexporter-plugins.git"
+  },
+  "keywords": [
+    "GDevelop",
+    "gdexporter",
+    "plugin"
+  ],
+  "author": "arthuro555",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arthuro555/gdexporter-plugins/issues"
+  },
+  "homepage": "https://github.com/arthuro555/gdexporter-plugins#readme",
+  "dependencies": {
+    "delete-empty": "^3.0.0",
+    "esbuild": "^0.8.46"
+  }
+}

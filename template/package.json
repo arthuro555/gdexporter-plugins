@@ -1,0 +1,21 @@
+{
+  "name": "@gdexporter/plugin-new",
+  "version": "1.0.0",
+  "description": "A new gdexport plugin.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthuro555/gdexporter-plugins.git"
+  },
+  "keywords": [
+    "GDevelop",
+    "gdexporter",
+    "plugin"
+  ],
+  "author": "arthuro555",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arthuro555/gdexporter-plugins/issues"
+  },
+  "homepage": "https://github.com/arthuro555/gdexporter-plugins#readme"
+}

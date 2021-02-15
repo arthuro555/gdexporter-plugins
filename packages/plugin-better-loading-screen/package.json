@@ -1,0 +1,21 @@
+{
+  "name": "@gdexporter/plugin-better-loading-screen",
+  "version": "1.0.0",
+  "description": "Replaces the default loading screen with a better one (by @Bouh).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthuro555/gdexporter-plugins.git"
+  },
+  "keywords": [
+    "GDevelop",
+    "gdexporter",
+    "plugin"
+  ],
+  "author": "arthuro555 & Bouh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arthuro555/gdexporter-plugins/issues"
+  },
+  "homepage": "https://github.com/arthuro555/gdexporter-plugins#readme"
+}

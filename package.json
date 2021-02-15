@@ -1,0 +1,22 @@
+{
+  "name": "gdexporter-plugins",
+  "private": true,
+  "version": "1.0.0",
+  "description": "This repository contains a few official plugins for [gdexporter](https://github.com/arthuro555/gdexporter).",
+  "scripts": {
+    "create-new": "cd packages && mkdir plugin-new && shx cp ../template/* plugin-new"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthuro555/gdexporter-plugins.git"
+  },
+  "author": "arthuro555",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arthuro555/gdexporter-plugins/issues"
+  },
+  "homepage": "https://github.com/arthuro555/gdexporter-plugins#readme",
+  "devDependencies": {
+    "shx": "^0.3.3"
+  }
+}
