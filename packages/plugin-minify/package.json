@@ -1,7 +1,7 @@
 {
-  "name": "@gdexporter/plugin-esbuild",
+  "name": "@gdexporter/plugin-minify",
   "version": "1.0.0",
-  "description": "Build the game with esbuild.",
+  "description": "Bundles all javascript together and minifies it with esbuild.",
   "main": "index.js",
   "repository": {
     "type": "git",
