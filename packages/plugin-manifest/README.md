@@ -1,4 +1,4 @@
-# plugin-pwa
+# plugin-manifest
 
 Adds a WebManifest with icons to enable PWA compliance.
 
