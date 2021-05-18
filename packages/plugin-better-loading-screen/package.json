@@ -1,6 +1,6 @@
 {
   "name": "@gdexporter/plugin-better-loading-screen",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Replaces the default loading screen with a better one (by @Bouh).",
   "main": "index.js",
   "repository": {
